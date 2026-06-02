@@ -88,7 +88,7 @@ git push -u origin main
 3. **Environment Variables on Vercel:**
 ```
 NEXT_PUBLIC_API_URL=https://your-api.railway.app
-NEXT_PUBLIC_WHATSAPP_NUMBER=918123139426
+NEXT_PUBLIC_WHATSAPP_NUMBER=8123139426
 NEXT_PUBLIC_SITE_EMAIL=info@ravikirantours.com
 NEXT_PUBLIC_PHONE_NUMBER=8123139426
 ```

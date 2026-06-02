@@ -83,7 +83,7 @@ Update `.env` files with your details.
 ### Frontend (.env.local)
 ```env
 NEXT_PUBLIC_API_URL=http://localhost:8000
-NEXT_PUBLIC_WHATSAPP_NUMBER=918123139426
+NEXT_PUBLIC_WHATSAPP_NUMBER=8123139426
 NEXT_PUBLIC_SITE_EMAIL=info@ravikirantours.com
 NEXT_PUBLIC_PHONE_NUMBER=8123139426
 ```
@@ -271,7 +271,7 @@ python main.py  # Edit main.py to change port
 
 ## 📞 Support
 
-**WhatsApp**: 918123139426
+**WhatsApp**: 8123139426
 **Email**: info@ravikirantours.com
 
 ## ✨ Next Steps
