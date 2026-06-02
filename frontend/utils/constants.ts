@@ -1,8 +1,8 @@
 export const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
-export const WHATSAPP_NUMBER = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '919876543210';
+export const WHATSAPP_NUMBER = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '918123139426';
 export const SITE_NAME = process.env.NEXT_PUBLIC_SITE_NAME || 'Ravi Kiran Tours';
 export const SITE_EMAIL = process.env.NEXT_PUBLIC_SITE_EMAIL || 'info@ravikirantours.com';
-export const PHONE_NUMBER = process.env.NEXT_PUBLIC_PHONE_NUMBER || '9876543210';
+export const PHONE_NUMBER = process.env.NEXT_PUBLIC_PHONE_NUMBER || '8123139426';
 
 export const TEMPLE_DESTINATIONS = [
   {
