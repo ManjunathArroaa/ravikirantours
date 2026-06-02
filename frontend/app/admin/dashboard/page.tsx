@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { FaPlus, FaEdit, FaTrash, FaImage, FaArrowLeft, FaSignOutAlt } from 'react-icons/fa';
+import { FaPlus, FaEdit, FaTrash, FaImage, FaSignOutAlt } from 'react-icons/fa';
 
 export default function AdminDashboard() {
   const [activeTab, setActiveTab] = useState<'overview' | 'events' | 'gallery'>('overview');

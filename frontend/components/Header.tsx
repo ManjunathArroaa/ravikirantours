@@ -2,8 +2,8 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { FaWhatsapp, FaPhone, FaMapMarkerAlt } from 'react-icons/fa';
-import { PHONE_NUMBER, SITE_EMAIL } from '@/utils/constants';
+import { FaWhatsapp, FaPhone } from 'react-icons/fa';
+import { PHONE_NUMBER } from '@/utils/constants';
 import { generateWhatsAppLink } from '@/utils/helpers';
 
 export default function Header() {

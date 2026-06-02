@@ -57,7 +57,7 @@ export const SAMPLE_YATRAS = [
     startingLocation: 'Varanasi',
     price: 14999,
     seatsAvailable: 25,
-    coverPhoto: 'https://images.pexels.com/photos/12559007/pexels-photo-12559007.jpeg?w=800&h=400&fit=crop',
+    coverPhoto: '/temples/kashi-vishwanath.jpg',
     description: 'A sacred journey through the holiest cities of North India',
   },
   {
@@ -69,7 +69,7 @@ export const SAMPLE_YATRAS = [
     startingLocation: 'Dehradun',
     price: 24999,
     seatsAvailable: 20,
-    coverPhoto: 'https://images.pexels.com/photos/2531370/pexels-photo-2531370.jpeg?w=800&h=400&fit=crop',
+    coverPhoto: '/temples/kedarnath.jpg',
     description: 'Complete pilgrimage to all four sacred Dhams',
   },
   {
@@ -81,7 +81,7 @@ export const SAMPLE_YATRAS = [
     startingLocation: 'Chennai',
     price: 19999,
     seatsAvailable: 30,
-    coverPhoto: 'https://images.pexels.com/photos/3717238/pexels-photo-3717238.jpeg?w=800&h=400&fit=crop',
+    coverPhoto: '/temples/ramanathaswamy.jpg',
     description: 'Explore the magnificent temples of Tamil Nadu and Andhra Pradesh',
   },
 ];
